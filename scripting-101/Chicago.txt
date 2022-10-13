@@ -1,0 +1,5 @@
+#!/bin/bash
+
+city=NYCity
+
+echo "We created $city file"
